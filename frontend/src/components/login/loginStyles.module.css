@@ -1,0 +1,29 @@
+
+.loginButton{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+	margin: 20px 0;
+}
+
+.heading{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.errorMessage{
+  color: red;
+}
+
+.formSignin{
+	line-height: 2;
+	min-width: 300px;
+	width: 30%;
+	margin: 100px auto;
+}
+
+.inputText{
+	padding: 10px 0;
+}
+
+
+

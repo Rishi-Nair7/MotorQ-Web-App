@@ -1,0 +1,16 @@
+
+
+.errorMessage{
+    color: red;
+} 
+
+.registerForm{
+    min-width: 300px;
+    margin: 50px auto;
+    width: 30%;
+}
+
+.heading{
+    margin-top: 50px;
+    text-align: center;
+}
