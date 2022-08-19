@@ -3,6 +3,7 @@ To Run Backend Folder :-
 2) run command "nodemon server.js"
 
 TO Run Frontend Folder :-
+1) run command "npm install"
 1) Go into Frontend Folder
 2) run command "npm start"
 
